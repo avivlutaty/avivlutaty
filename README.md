@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+### lets start coding 
+
+https://www.youtube.com/watch?v=PDz0R9jdVfc&list=PL7tGF31b_cVqEkSLFvAX3kbtzUVpMe-VB 
+
 <!--
 **avivlutaty/avivlutaty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
